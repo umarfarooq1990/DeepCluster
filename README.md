@@ -1,5 +1,5 @@
 
-# DeepCluster Agent for Identification of Nickel Nanoclusters Using Deep Reinforcement Learning
+# DeepCluster Agent for Identification of Global Minimum (GM) Nickel Nanoclusters Using Deep Reinforcement Learning
 
 # Intelligent Navigation of Potential Energy Surfaces: Leveraging Deep Reinforcement Learning Paradigms for Accelerated Discovery of Stable Nickel Nanoclusters
 
