@@ -1,4 +1,5 @@
-# Intelligent Navigation of Potential Energy Surfaces: Leveraging Deep Reinforcement Learning Paradigms for Accelerated Discovery of Stable Nickel Nanoclusters[Uploading Ni.pdf…]()
+# Intelligent Navigation of Potential Energy Surfaces: Leveraging Deep Reinforcement Learning Paradigms for Accelerated Discovery of Stable Nickel Nanoclusters [Ni.pdf](https://github.com/user-attachments/files/25721426/Ni.pdf)
+
 
 
 ## Overview
