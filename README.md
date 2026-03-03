@@ -6,6 +6,8 @@
 ## Overview
 This repository contains the implementation of the **DeepCluster Agent**, designed for the identification of Nickel (Ni) nanoclusters using **Deep Reinforcement Learning (DRL)**. The model aims to efficiently explore nanocluster configurations and optimize for desired properties.
 
+The code is adapted from [**clusgym_drl**](https://github.com/rajeshkochi444/clusgm_drl). We thank the authors for making the code available on github. We modified the code to work with Nickel nanoclusters and renamed it to Deepcluster.
+
 ## How to Run the Code
 
 ### 1. Set Up the Environment
