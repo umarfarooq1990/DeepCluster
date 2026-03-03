@@ -1,4 +1,5 @@
-# Intelligent Navigation of Potential Energy Surfaces: Leveraging Deep Reinforcement Learning Paradigms for Accelerated Discovery of Stable Nickel Nanoclusters
+# Intelligent Navigation of Potential Energy Surfaces: Leveraging Deep Reinforcement Learning Paradigms for Accelerated Discovery of Stable Nickel Nanoclusters[Uploading Ni.pdf…]()
+
 
 ## Overview
 This repository contains the implementation of the **DeepCluster Agent**, designed for the identification of Nickel (Ni) nanoclusters using **Deep Reinforcement Learning (DRL)**. The model aims to efficiently explore nanocluster configurations and optimize for desired properties.
