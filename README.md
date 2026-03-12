@@ -5,7 +5,7 @@
 ## Overview
 This repository contains the implementation of the **DeepCluster Agent**, employed for the identification of Nickel (Ni) nanoclusters using **Deep Reinforcement Learning (DRL)**. The aims is to efficiently explore GM nanocluster configurations.
 
-This is a modified and adapted version of the DRL framework from [**clusgym_drl**](https://github.com/rajeshkochi444/clusgm_drl) J. Phys. Chem. A 2024, 128, 42, 9122–9134. We thank the authors for making the code available on github. However, our framework has been adapted to tackle the additional challenges that are present for Nickel nanoclusters for specific symmetries such as icosahedral symmetry and octahedral symmetry. We modified the code to work with Nickel nanoclusters and named it to Deepcluster.
+This is an adapted version of the DRL framework from [**clusgym_drl**](https://github.com/rajeshkochi444/clusgm_drl) J. Phys. Chem. A 2024, 128, 42, 9122–9134. We thank the authors for making the code available on github. However, our framework has been adapted to tackle the additional challenges that are present for Nickel nanoclusters for specific symmetries such as icosahedral symmetry and octahedral symmetry. We modified the code to work with Nickel nanoclusters and named it to Deepcluster.
 
 ## How to Run the Code
 
@@ -53,13 +53,13 @@ For **Nickel** nanoclusters, adjust the `eleNums` variable to specify different 
   ```
 
 ### 4. Run the Simulation
-Once you've configured the nanocluster composition, you can run the simulation by executing the following command:
+Once configured the nanocluster composition, we can run the simulation by executing the following command:
 
 ```bash
 python Deepcluster.py
 ```
 
-This will initiate the Deepcluster Agent to simulate and optimize the nanocluster configurations based on the specified parameters.
+This will initiate the agent to simulate and optimize the nanocluster configurations based on the specified parameters.
 
 ---
 
