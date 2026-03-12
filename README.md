@@ -63,5 +63,3 @@ This will initiate the DeepCluster Agent to simulate and optimize the nanocluste
 
 ---
 
-### Note
-Any nanocluster configuration can be simulated by changing the `eleNames` and `eleNums` parameters in the script. This includes **monometallic**, **bimetallic**, **trimetallic**, **quaternary**, and **quinary** alloy compositions. Simply specify the desired elements and their respective atomic counts in the `eleNames` and `eleNums` lists to customize the simulation.
