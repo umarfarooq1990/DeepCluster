@@ -18,7 +18,7 @@ We thank the authors for making the code available on github.
 
 ## Key Modifications
 
-This framework replaced the original TRPO with PPO for faster wall-clock convergence, better sample efficiency, and correct on-policy exploration. 
+This framework replaced the original TRPO agent with PPO agent for faster wall-clock convergence, better sample efficiency, and correct on-policy exploration. 
 We modified the code to work with Nickel nanoclusters and named it to Deepcluster.
 
 ---
