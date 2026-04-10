@@ -1,7 +1,7 @@
 # Intelligent Navigation of Potential Energy Surfaces: Leveraging Deep Reinforcement Learning Paradigms for Accelerated Discovery of Stable Nickel Nanoclusters
 [Intelligent Navigation of Potential Energy Surfaces Leveraging Deep Reinforcement Learning Paradigms for Accelerated Discovery of Stable Nickel Nanoclusters .pdf](https://github.com/user-attachments/files/25721472/Intelligent.Navigation.of.Potential.Energy.Surfaces.Leveraging.Deep.Reinforcement.Learning.Paradigms.for.Accelerated.Discovery.of.Stable.Nickel.Nanoclusters.pdf)
 
-# Deepcluster Framework — DRL Framework for Nanocluster Global Minimum Search (version 2.0).
+# Deepcluster Framework — A Proximal Policy Optimization (PPO) DRL Framework for Nanocluster Global Minimum Search (version 2.0).
 ## Overview
 This repository contains the implementation of the **Deepcluster Agent**, employed for the identification of Nickel (Ni) nanoclusters using **Deep Reinforcement Learning (DRL)**. The aims is to efficiently explore GM nanocluster configurations.
 
