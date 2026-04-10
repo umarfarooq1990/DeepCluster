@@ -3,7 +3,7 @@
 
 # Deepcluster Framework — A Proximal Policy Optimization (PPO) DRL Framework for Nanocluster Global Minimum Search (version 2.0).
 ## Overview
-This repository contains the implementation of the **Deepcluster Agent**, employed for the identification of Nickel (Ni) nanoclusters using **Deep Reinforcement Learning (DRL)**. The aims is to efficiently explore GM nanocluster configurations.
+This repository contains the implementation of the **Deepcluster Agent**, employed for the identification of Nickel (Ni) nanoclusters using **Deep Reinforcement Learning (DRL)**. The aims is to efficiently explore global minimum (GM) nanocluster configurations.
 
 This is a modified and adapted version of the DRL framework from:
 
